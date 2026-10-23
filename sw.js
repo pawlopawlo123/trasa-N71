@@ -4,8 +4,8 @@ const FILES_TO_CACHE = [
   "/trasa-N71/",
   "/trasa-N71/index.html",
   "/trasa-N71/manifest.json",
-  "/trasa-N71/ikona-192.png",
-  "/trasa-N71/ikona-512.png"
+  "/trasa-N71/icon-192.png",
+  "/trasa-N71/icon-512.png"
 ];
 
 self.addEventListener("install", (event) => {
